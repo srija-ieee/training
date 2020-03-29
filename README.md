@@ -15,7 +15,7 @@ Users are expected to ascertain the validity of the content against the latest g
 
 All material is licensed under "Creative Commons Attribution-ShareAlike 2.5 India". We do NOT gurantee any personal data protection or privacy rights adherence. Users and contributors, alike, are advised to diligently avoid submissions of any information they do not wish to make public. Disputes are subject to the jurisdiction of the courts in New Delhi, India only.
 
-Kindly read and accept the terms and conditions prior to accessing this site any further.
+Kindly read and accept the [terms and conditions](https://github.com/tms-india/training/blob/master/TnC.md) and the [privacy policy](https://github.com/tms-india/training/blob/master/PRIVACY.md) prior to accessing this site any further.
 
 Coming up:
 1. Contributors guidelines
