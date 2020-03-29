@@ -1,2 +1,2 @@
-# training
-Training collaterals from the Telemedicine Society of India
+# Training collaterals
+## Telemedicine Society of India
