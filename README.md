@@ -1,4 +1,4 @@
-# Training materials
+# Training Collaterals
 ## Under the aegis of the [Telemedicine Society of India](http://tsi.org.in/)
 Note: This is only a repository. For the official website of TSI, please visit [the official website](http://tsi.org.in/) (http://tsi.org.in/)
 
