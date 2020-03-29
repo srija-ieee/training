@@ -7,13 +7,12 @@ Please create a fork of the repository to make changes and submit a pull request
 For change requests and corrections please log a ticket by [clicking here](https://github.com/tms-india/training/issues)
 
 Disclaimer:
-This site is primarily for the dissemination of authenticated collaterals produced by the professionals working under the aegis of the Telemedicine Society of India, and its associates for training of registered medical professionals in the practice of telemedicine (primarily tele consultation).
+This site is primarily for the dissemination of authenticated collaterals produced by the professionals working under the aegis of the Telemedicine Society of India, and its associates for training of registered medical professionals in the practice of telemedicine (primarily tele consultation). There is no warranty, or liability on the collaterals and artifacts contained herein.
 
-All collaterals are provided as is on a best effort basis. Users are expected to ascertain the validity of the content against the latest guidelines published by the MoHFW and other departments of the Government of India and state governments. These offerings are provided without any warranty or liability.
-
+Users are expected to ascertain the validity of the content against the latest guidelines published by the MoHFW and other departments of the Central Government of India and State Governments.
 [Click here for the MoHFW, GoI guidelines on Telemedicine](https://www.mohfw.gov.in/pdf/Telemedicine.pdf)
 
-All material is licensed under "Creative Commons Attribution-ShareAlike 2.5 India"
+All material is licensed under "Creative Commons Attribution-ShareAlike 2.5 India". We do NOT gurantee any personal data protection or privacy rights adherence. Users and contributors, alike, are advised to diligently avoid submissions of any information they do not wish to make public. Disputes are subject to the jurisdiction of the courts in New Delhi, India only.
 
 Coming up:
 1. Contributors guidelines
