@@ -3,7 +3,7 @@
 ### Notice:
 This is only a repository. For the official website of TSI, please visit [the official website](http://tsi.org.in/) (http://tsi.org.in/)
 
-Please create a fork of the repository to make changes and submit a pull request. See contributors manual for more details.
+Please create a fork of the [repository](https://github.com/tms-india/training) to make changes and submit a pull request. See contributors manual for more details.
 
 For change requests and corrections please log a ticket by [clicking here](https://github.com/tms-india/training/issues)
 
@@ -17,5 +17,9 @@ All material is licensed under "Creative Commons Attribution-ShareAlike 2.5 Indi
 
 Kindly read and accept the [terms and conditions](https://github.com/tms-india/training/blob/master/TnC.md) and the [privacy policy](https://github.com/tms-india/training/blob/master/PRIVACY.md) prior to accessing this site any further.
 
-Coming up:
+### Published artifacts:
+1. 
+
+### Coming up:
 1. Contributors guidelines
+
