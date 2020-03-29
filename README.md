@@ -4,7 +4,7 @@ Note: This is only a repository. For the official website of TSI, please visit [
 
 Please create a fork of the repository to make changes and submit a pull request. See contributors manual for more details.
 
-For change requests and corrections please log in a ticket by [clicking here](https://github.com/tms-india/training/issues)
+For change requests and corrections please log a ticket by [clicking here](https://github.com/tms-india/training/issues)
 
 Disclaimer:
 This site is primarily for the dissemination of authenticated collaterals produced by the professionals working under the aegis of the Telemedicine Society of India, and its associates for training of registered medical professionals in the practice of telemedicine (primarily tele consultation).
