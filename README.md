@@ -2,7 +2,7 @@
 ## Under the aegis of the [Telemedicine Society of India](http://tsi.org.in/)
 Note: This is only a repository. For the official website of TSI, please visit [the official website](http://tsi.org.in/) (http://tsi.org.in/)
 
-Please create a fork of the repository to make changes and submit a pull request.
+Please create a fork of the repository to make changes and submit a pull request. See contributors manual for more details.
 
 For change requests and corrections please log in a ticket by [clicking here](https://github.com/tms-india/training/issues)
 
